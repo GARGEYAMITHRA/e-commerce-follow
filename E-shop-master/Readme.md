@@ -47,3 +47,7 @@ product Detail page created
 updated product and user schema with cart. created add to cart route and updated product detail page.
 # milestone 18
 added endpoint to display all items in the cart
+# milestone 19
+Create an cart page that display the products inside cart using endpoint we build in milestone 18.
+For each product add an option to increase and decrease quantity using + and - buttons.
+Write an endpoint to increase and decrease the quantity
