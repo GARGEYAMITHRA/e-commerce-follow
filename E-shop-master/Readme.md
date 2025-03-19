@@ -51,3 +51,17 @@ added endpoint to display all items in the cart
 Create an cart page that display the products inside cart using endpoint we build in milestone 18.
 For each product add an option to increase and decrease quantity using + and - buttons.
 Write an endpoint to increase and decrease the quantity
+
+# milestone 20
+Create and backend endpoint that will send all the user data using mail.
+Create an frontend profile page that will display all the user data
+display profile photo, name, mail and addresses
+
+# milestone 21
+create address form frontend page
+Create an state that will store input address
+when we click on add address in profile it should navigate to this form page
+
+# milestone 22
+You need to create an endpoint that will receive the address from address form in frontend
+Add the address to the address array inside user collection.
