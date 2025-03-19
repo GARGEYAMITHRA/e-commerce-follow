@@ -16,7 +16,7 @@ export default function Profile() {
 
 	useEffect(() => {
 		fetch(
-			`http://localhost:5000/api/user/profile?email=${"sankamithra1614@gmail.com"}`,
+			`http://localhost:5000/api/user/profile?email=${"gargeya@gmail.com"}`,
 			{
 				method: "GET",
 				headers: {
