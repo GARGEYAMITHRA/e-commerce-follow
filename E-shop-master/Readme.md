@@ -65,3 +65,8 @@ when we click on add address in profile it should navigate to this form page
 # milestone 22
 You need to create an endpoint that will receive the address from address form in frontend
 Add the address to the address array inside user collection.
+
+# milestone 23
+We will add an button inside cart called "Place order"
+We will create an select address page where we will display all the address and ask to select delivery address.
+We will write mongoose schema for storing orders details.
