@@ -70,3 +70,9 @@ Add the address to the address array inside user collection.
 We will add an button inside cart called "Place order"
 We will create an select address page where we will display all the address and ask to select delivery address.
 We will write mongoose schema for storing orders details.
+
+# milestone 24
+First we will display all the products we are ordering
+Next we will display the address user selected to deliver
+We will display the total value of the cart
+We will have an place order button at the bottom.
